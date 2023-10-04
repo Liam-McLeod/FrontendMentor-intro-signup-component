@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Intro component with sign up form</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+  <div class="main-container">
+    <div class="intro">
+      <h1 class="title">Learn to code by watching others</h1>
+      <p class="desc">See how experienced developers solve problems in real-time. Watching scripted tutorials is great, 
+        but understanding how developers think is invaluable. </p>
+    </div>
+
+    <div class="content">
+      <div class="free-trial">
+        <p><span>Try it free 7 days</span> then $20/mo. thereafter</p>
+      </div>
+
+      
+      <form>
+
+        <div class="input-icons">
+          <input type="text" placeholder="First Name" id="fname">
+          <p class="error-message"></p>
+        </div>
+        
+
+        <div class="input-icons">
+          <input type="text" placeholder="Last Name" id="lname">
+          <p class="error-message"></p>
+        </div>
+        
+
+        <div class="input-icons">
+          <input type="text" placeholder="Email Address" id="email">
+          
+          <p class="error-message"></p>
+        </div>
+        
+
+        <div class="input-icons">
+          <input type="text" placeholder="Password" id="pass">
+          <p class="error-message"></p>
+        </div>
+
+
+        <button type="submit">Claim your free trial</button>
+        <p class="terms-desc">By clicking the button, you are agreeing to our <span>Terms and Services</span></p>
+      </form>
+      
+    </div>
+  </div>
+  <script src="scripts.js"></script>
+</body>
+</html>

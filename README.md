@@ -17,8 +17,8 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-UPu5dyrv9k)
--  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Base-Apparel/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-C6n31memwo)
+-  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-intro-signup-component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
